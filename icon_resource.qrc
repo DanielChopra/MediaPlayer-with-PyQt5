@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/wicon_64x64.ico</file>
+        <file>icons/plist.png</file>
+        <file>icons/previous.png</file>
+        <file>icons/next.png</file>
+        <file>icons/play.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/skip_frwd.png</file>
+        <file>icons/skip_back.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/aspr.png</file>
+        <file>icons/loop_off.png</file>
+        <file>icons/loop_on.png</file>
+        <file>icons/item_loop.png</file>
+        <file>icons/shuffle_on.png</file>
+    </qresource>
+</RCC>
