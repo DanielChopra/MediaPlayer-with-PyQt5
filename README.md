@@ -20,3 +20,5 @@ PyQt5 Documentation :-
 https://doc.qt.io/qtforpython-5/PySide2/QtMultimedia/QMediaPlayer.html                                                                                                         
 
 Book for reference  : "Create GUI Applications with Python&amp;Qt5" by Martin Fitzpatrick
+
+To dowanload the Mediaplayer setup file for Windows OS : https://github.com/DanielChopra/Mediaplayer-for-Windows-OS/releases/tag/v1.0.0
